@@ -1,0 +1,11 @@
+﻿服务器资源目录(https://gitee.com/scimence/RegDemo/raw/master/)
+本地资源目录(F:\tmp\RegDemo\)
+
+待更新文件(
+
+LICENSE(1685c15fd82630256632b0da6a1b6e31)
+README.en.md(0bd4e8148ba5efca4fefe24a9ccba4d2)
+README.md(03cb5aea2014d3335f071c6cd9f4baef)
+RegDemo_20190424_21.01.zip(e795f201a3d3b3da15a84683e7a105f0)
+
+)待更新文件
