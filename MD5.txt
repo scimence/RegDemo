@@ -1,4 +1,4 @@
-﻿服务器资源目录(https://gitee.com/scimence/RegDemo/raw/master/)
+﻿服务器资源目录(https://scimence.gitee.io/RegDemo/)
 本地资源目录(E:\SVN\workSpace\RegDemo\)
 
 待更新文件(
