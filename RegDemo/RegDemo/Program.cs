@@ -17,7 +17,6 @@ namespace RegDemo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            SciReg.DepensFile.ExportDll();  // 输出依赖dll
             Application.Run(new Form1());
         }
     }

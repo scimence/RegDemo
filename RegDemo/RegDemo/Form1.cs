@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-// 备注： SciReg.dll引用
-// 下载：https://gitee.com/scimence/sciTools/raw/master/DLL/SciReg.dll
-// 项目->添加引用->浏览->选取SciReg.dll文件
-
 namespace RegDemo
 {
     public partial class Form1 : Form
@@ -24,18 +20,23 @@ namespace RegDemo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            SciReg.RegTool.Init("RegDemo", "scimence");
-            
+            RegTool.Init("RegDemo", "scimence");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            SciReg.RegTool.CheckRegDoing(ToolLogic);
+            RegTool.CheckRegDoing(ToolLogic);
         }
 
         public void ToolLogic()
         {
             MessageBox.Show("success，执行此处逻辑！！！");
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string url = "https://www.scimence.club/PayFor/SDK.aspx";
+            System.Diagnostics.Process.Start(url);
         }
     }
 }
