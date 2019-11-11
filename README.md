@@ -25,6 +25,6 @@ https://scimence.gitee.io/RegDemo/files/RegDemo.exe
 https://scimence.gitee.io/RegDemo/files/RegDemo_20191111_11.44.zip
 
 
-软件注册功能已实现，提现后台建设中 http://scimence.gitee.io/url/QRPay.html
+软件注册功能已实现，开发者后台： http://scimence.gitee.io/url/QRPay.html
 
 
