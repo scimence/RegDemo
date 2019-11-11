@@ -7,6 +7,18 @@ using System.Threading.Tasks;
 
 namespace RegDemo
 {
+    // http://scimence.gitee.io/url/QRPay.html 开发者账号注册时，设置您的开发者名称
+    // 添加RegTool.cs类到项目，为应用提供注册功能
+
+    // 1、初始化，RegDemo为软件名称请自定义，scimence修改为您自己的支付宝收款账号
+    // RegTool.Init("RegDemo", "scimence");
+
+    // 2、调用注册检测，若已注册则执行软件自己的功能逻辑 ToolLogic()
+    // RegTool.CheckRegDoing(ToolLogic);
+
+    /// <summary>
+    /// 软件注册插件
+    /// </summary>
     class RegTool
     {
         /// <summary>

@@ -34,11 +34,11 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(75, 161);
+            this.button1.Location = new System.Drawing.Point(77, 100);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 23);
             this.button1.TabIndex = 0;
-            this.button1.Text = "若已注册则执行";
+            this.button1.Text = "软件注册";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
