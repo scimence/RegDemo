@@ -22,8 +22,9 @@ https://scimence.gitee.io/RegDemo/files/RegDemo.exe
 
 
 #### 示例源码
-https://scimence.gitee.io/RegDemo/files/RegDemo_20190522_17.37.zip
+https://scimence.gitee.io/RegDemo/files/RegDemo_20191111_11.44.zip
 
-软件注册功能已实现，提现后台建设中 https://www.scimence.club/PayFor/SDK.aspx
+
+软件注册功能已实现，提现后台建设中 http://scimence.gitee.io/url/QRPay.html
 
 
