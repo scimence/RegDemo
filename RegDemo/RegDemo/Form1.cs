@@ -20,12 +20,12 @@ namespace RegDemo
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            RegTool.Init("RegDemo", "scimence");    // 修改RegDemo为您的软件名称、修改scimence为您的支付宝收款账号
+            Sci.RegTool.Init("RegDemo", "scimence");    // 修改RegDemo为您的软件名称、修改scimence为您的支付宝收款账号
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            RegTool.CheckRegDoing(ToolLogic);       // 调用付费注册逻辑，当付费完成后执行ToolLogic()
+            Sci.RegTool.CheckRegDoing(ToolLogic);       // 调用付费注册逻辑，当付费完成后执行ToolLogic()
         }
 
         /// <summary>
